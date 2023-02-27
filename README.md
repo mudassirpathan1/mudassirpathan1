@@ -10,7 +10,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mudassirpathan1" alt="mudassirpathan1" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/mudassirpathan" target="blank"><img src="https://img.shields.io/twitter/follow/mudassirpathan?logo=twitter&style=for-the-badge" alt="mudassirpathan" /></a> </p>
+<p align="left"> <a href="https://twitter.com/PathanBhaijaan" target="blank"><img src="https://img.shields.io/twitter/follow/PathanBhaijaan?logo=twitter&style=for-the-badge" alt="PathanBhaijaan" /></a> </p>
 
 - 🔭 I’m currently working on **E-commerce Website**
 
@@ -29,7 +29,7 @@
 <!-- BLOG-POST-LIST:END -->
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/oneway._.patel007) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/muddasir-pathan-03b352153/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/mudassirpathan)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/oneway._.patel007) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/muddasir-pathan-03b352153/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/PathanBhaijaan)
 
 
 # 💻 Tech Stack:
