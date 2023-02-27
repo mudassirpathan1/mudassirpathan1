@@ -1,11 +1,17 @@
+ <img src="https://readme-typing-svg.demolab.com/?lines=Hi+👋+I'm+Mudassir+Pathan;An+Aspiring+Full+Stack+Web-Developer+From+India&font=Fira%20Code&center=true&width=800&height=50&weight=800&size=24&duration=2000&pause=2000">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</p> 
+
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/d3a9f3a787ffc69aa73aa0a5cb5a29b968b823b62d80f7b589a705664dde9e2b/68747470733a2f2f7777772e627970656f706c652e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031392f30332f70656f706c652d61742d776f726b2e676966">
+<img align="right" alt="Coding" width="400" src="https://th.bing.com/th/id/R.f617f080d4d78bdee1c6615397bebc6a?rik=IKM4kPewsQQlmg&pid=ImgRaw&r=0">
 
 
 
-<h1 align="center">Hi 👋, I'm Muddasir Pathan</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<!-- <h1 align="center">Hi 👋, I'm Muddasir Pathan</h1>
+<h3 align="center">A passionate frontend developer from India</h3> -->
 
-<img align="center" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
+<!-- <img align="center" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+ -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mudassirpathan1&label=Profile%20views&color=0e75b6&style=flat" alt="mudassirpathan1" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mudassirpathan1" alt="mudassirpathan1" /></a> </p>
