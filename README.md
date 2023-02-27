@@ -3,32 +3,20 @@
 </p> 
 
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/d3a9f3a787ffc69aa73aa0a5cb5a29b968b823b62d80f7b589a705664dde9e2b/68747470733a2f2f7777772e627970656f706c652e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031392f30332f70656f706c652d61742d776f726b2e676966">
-<img align="right" alt="Coding" width="400" src="https://th.bing.com/th/id/R.f617f080d4d78bdee1c6615397bebc6a?rik=IKM4kPewsQQlmg&pid=ImgRaw&r=0">
-
-
-
-<!-- <h1 align="center">Hi 👋, I'm Muddasir Pathan</h1>
-<h3 align="center">A passionate frontend developer from India</h3> -->
-
-<!-- <img align="center" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<!-- <img align="right" alt="Coding" width="400" src="https://th.bing.com/th/id/R.f617f080d4d78bdee1c6615397bebc6a?rik=IKM4kPewsQQlmg&pid=ImgRaw&r=0">
  -->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mudassirpathan1&label=Profile%20views&color=0e75b6&style=flat" alt="mudassirpathan1" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mudassirpathan1" alt="mudassirpathan1" /></a> </p>
+# 💫 About Me:
+  I am an aspiring Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+- 🌱 I’m currently learning **Full Stack Web Development**
+- 👯 I will be happy to collaborate on **Web Development Projects**
+- 👨‍💻 All of my projects are available at **[here](https://github.com/mudassirpathan1/mudassirpathan1)**
+- 📫 How to reach me **personalpathan007@gmail.com**
+- ⚡ Fun fact **I am funny**
 
 <p align="left"> <a href="https://twitter.com/PathanBhaijaan" target="blank"><img src="https://img.shields.io/twitter/follow/PathanBhaijaan?logo=twitter&style=for-the-badge" alt="PathanBhaijaan" /></a> </p>
 
-- 🔭 I’m currently working on **E-commerce Website**
 
-- 🌱 I’m currently learning **ReactNative**
-
-- 👨‍💻 All of my projects are available at [https://github.com/mudassirpathan1/mudassirpathan1](https://github.com/mudassirpathan1/mudassirpathan1)
-
-- 💬 Ask me about **react,Vue.js**
-
-- 📫 How to reach me **personalpathan007@gmail.com**
-
-- ⚡ Fun fact **I am funny**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
@@ -44,7 +32,12 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mudassirpathan1&show_icons=true&locale=en&layout=compact" alt="mudassirpathan1" /></p>
 
+
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mudassirpathan1&show_icons=true&locale=en" alt="mudassirpathan1" /></p>
+
+### Muddasir's Trophy's 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mudassirpathan1" alt="mudassirpathan1" /></a> </p>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
