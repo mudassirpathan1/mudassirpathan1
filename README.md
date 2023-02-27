@@ -9,7 +9,7 @@
 # 💫 About Me:
   I am an aspiring Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 - 🌱 I’m currently learning **Full Stack Web Development**
-- 👯 I will be happy to collaborate on **Web Development Projects**
+- ✴️ I will be happy to collaborate on **Web Development Projects**
 - 👨‍💻 All of my projects are available at **[here](https://github.com/mudassirpathan1?tab=repositories)**
 - 📫 How to reach me **personalpathan007@gmail.com**
 - ⚡ Fun fact **I am funny**
