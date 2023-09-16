@@ -11,7 +11,7 @@
 - 🌱 I’m currently learning **Full Stack Web Development**
 - ✴️ I will be happy to collaborate on **Web Development Projects**
 - 👨‍💻 All of my projects are available at **[here](https://github.com/mudassirpathan1?tab=repositories)**
-- 📫 How to reach me **personalpathan007@gmail.com**
+- 📫 How to reach me **mpathan.2107@gmail.com**
 - ⚡ Fun fact **I am funny**
 
 <p align="left"> <a href="https://twitter.com/PathanBhaijaan" target="blank"><img src="https://img.shields.io/twitter/follow/PathanBhaijaan?logo=twitter&style=for-the-badge" alt="PathanBhaijaan" /></a> </p>
