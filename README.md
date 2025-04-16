@@ -3,8 +3,7 @@
 </p> 
 
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/d3a9f3a787ffc69aa73aa0a5cb5a29b968b823b62d80f7b589a705664dde9e2b/68747470733a2f2f7777772e627970656f706c652e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031392f30332f70656f706c652d61742d776f726b2e676966">
-<!-- <img align="right" alt="Coding" width="400" src="https://th.bing.com/th/id/R.f617f080d4d78bdee1c6615397bebc6a?rik=IKM4kPewsQQlmg&pid=ImgRaw&r=0">
- -->
+
 
 # 💫 About Me:
   I am Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
@@ -17,6 +16,7 @@
 <p align="left"> <a href="https://twitter.com/PathanBhaijaan" target="blank"><img src="https://img.shields.io/twitter/follow/PathanBhaijaan?logo=twitter&style=for-the-badge" alt="PathanBhaijaan" /></a> </p>
 
 
+<img align="right" alt="Coding" width="400" src="https://th.bing.com/th/id/R.f617f080d4d78bdee1c6615397bebc6a?rik=IKM4kPewsQQlmg&pid=ImgRaw&r=0">
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
